@@ -1,0 +1,19 @@
+{
+  "name": "javascript-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "dev": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuxdjent/javascript-test.git"
+  },
+  "author": "Manuel Fernández de Ginzo Muñoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuxdjent/javascript-test/issues"
+  },
+  "homepage": "https://github.com/manuxdjent/javascript-test#readme"
+}
